@@ -1,0 +1,42 @@
+ion-view(view-title="Group Map v2.4" ng-controller="MapCtrl")
+
+   ion-nav-bar
+
+   ion-side-menus(enable-menu-with-back-views="true")
+
+      ion-side-menu-content
+
+         ion-nav-bar.bar-positive
+            ion-nav-back-button(class="button-icon ion-arrow-left-c")
+            ion-nav-buttons(side="right")
+               button(class="button button-icon button-clear ion-navicon" menu-toggle="right")
+
+         ion-content(class="has-header padding")
+
+            div(id="map" data-tap-disabled="true")
+               //map(center="43.07493,-89.381388" zoom="15" height="100%" width="100%")
+
+            form(ng-submit="")
+               ion-footer-bar(keyboard-attach class="bar bar-footer bar-light item-input-inset footer-item-input-insert")
+                  label(class="item-input-wrapper")
+                     input(type="text" width="100%" placeholder="type here ....")
+                  button(class="button button-small" ng-click="") Send
+
+         //ion-nav-view(name="menu-content")
+
+      ion-side-menu(side="right")
+         ion-header-bar(class="bar bar-header bar-dark")
+            h1(class="title") Friends
+
+         ion-content
+            ion-list
+               ion-item(class="item item-avatar" href="#")
+                  img(src="https://www.gravatar.com/avatar/36b92a742d1695b61b9e9572dbd55f6a?s=32&d=identicon&r=PG")
+                  h2 Person 1
+                  p Last Update: 12:00
+                  label.toggle
+                     input(type="checkbox")
+                     .track
+                        .handle
+                  ion-option-button(class="button-assertive") Delete
+                  ion-option-button(class="button-positive") Pause

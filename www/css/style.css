@@ -1,0 +1,21 @@
+#map {
+    width: 100%;
+    height: 100%;
+}
+
+.scroll {
+    height: 100%;
+}
+
+/** For the message bar **/
+.footer-item-input-insert {
+    position: inherit;
+}
+
+.hide-footer .bar-footer, .hide-footer .tabs {
+    display: flex;
+}
+.hide-footer .has-footer, .hide-footer .has-tabs {
+    bottom: 44px;
+}
+

@@ -1,0 +1,145 @@
+2015-04-19 02:03:26.105 sergap[3383:176918] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Data/Application/BDABE7DD-53B8-4ACD-97B3-21CE1B691543/Library/Cookies/Cookies.binarycookies
+2015-04-19 02:03:26.381 sergap[3383:176918] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 02:03:26.381 sergap[3383:176918] Multi-tasking -> Device: YES, App: YES
+2015-04-19 02:03:26.398 sergap[3383:176918] Unlimited access to network resources
+2015-04-19 02:03:26.543 sergap[3383:176918] [CDVTimer][keyboard] 0.068963ms
+2015-04-19 02:03:26.543 sergap[3383:176918] [CDVTimer][TotalPluginStartup] 0.266969ms
+2015-04-19 02:03:26.927 sergap[3383:176918] Resetting plugins due to page load.
+2015-04-19 02:03:27.591 sergap[3383:176918] Finished load of: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/FB2C3A6C-1DE2-4D27-80F1-26BC897AF65E/sergap.app/www/index.html#/room/list
+2015-04-19 02:03:30.085 sergap[3383:176918] Resetting plugins due to page load.
+2015-04-19 02:03:30.088 sergap[3383:176918] Failed to load webpage with error: Frame load interrupted
+2015-04-19 02:03:31.946 sergap[3383:176918] Resetting plugins due to page load.
+2015-04-19 02:03:31.948 sergap[3383:176918] Failed to load webpage with error: Frame load interrupted
+2015-04-19 02:04:20.873 sergap[3383:176918] Resetting plugins due to page load.
+2015-04-19 02:04:20.875 sergap[3383:176918] Failed to load webpage with error: Frame load interrupted
+2015-04-19 02:04:21.914 sergap[3383:176918] Resetting plugins due to page load.
+2015-04-19 02:04:21.916 sergap[3383:176918] Failed to load webpage with error: Frame load interrupted
+2015-04-19 02:07:35.655 sergap[3883:178956] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Data/Application/8438DFC3-15C6-4E53-9E5F-6D99D0550481/Library/Cookies/Cookies.binarycookies
+2015-04-19 02:07:35.928 sergap[3883:178956] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 02:07:35.929 sergap[3883:178956] Multi-tasking -> Device: YES, App: YES
+2015-04-19 02:07:35.948 sergap[3883:178956] Unlimited access to network resources
+2015-04-19 02:07:36.080 sergap[3883:178956] [CDVTimer][keyboard] 0.066996ms
+2015-04-19 02:07:36.080 sergap[3883:178956] [CDVTimer][TotalPluginStartup] 0.270009ms
+2015-04-19 02:07:36.464 sergap[3883:178956] Resetting plugins due to page load.
+2015-04-19 02:07:36.857 sergap[3883:178956] Finished load of: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/FDB28F41-003E-44B9-A9B4-A784796CEC62/sergap.app/www/index.html#/room/list
+2015-04-19 02:09:41.563 sergap[3883:178956] Resetting plugins due to page load.
+2015-04-19 02:09:41.567 sergap[3883:178956] Failed to load webpage with error: Frame load interrupted
+2015-04-19 02:09:42.551 sergap[3883:178956] Resetting plugins due to page load.
+2015-04-19 02:09:42.553 sergap[3883:178956] Failed to load webpage with error: Frame load interrupted
+2015-04-19 02:09:48.533 sergap[3883:178956] Resetting plugins due to page load.
+2015-04-19 02:09:48.535 sergap[3883:178956] Failed to load webpage with error: Frame load interrupted
+2015-04-19 02:09:49.582 sergap[3883:178956] Resetting plugins due to page load.
+2015-04-19 02:09:49.583 sergap[3883:178956] Failed to load webpage with error: Frame load interrupted
+2015-04-19 10:40:50.282 sergap[5241:259883] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Data/Application/51414C1B-2EA7-4A37-A4B9-B5B9E7C126D8/Library/Cookies/Cookies.binarycookies
+2015-04-19 10:40:51.632 sergap[5241:259883] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 10:40:51.632 sergap[5241:259883] Multi-tasking -> Device: YES, App: YES
+2015-04-19 10:40:51.723 sergap[5241:259883] Unlimited access to network resources
+2015-04-19 10:40:52.752 sergap[5241:259883] [CDVTimer][keyboard] 0.087976ms
+2015-04-19 10:40:52.752 sergap[5241:259883] [CDVTimer][TotalPluginStartup] 0.728965ms
+2015-04-19 10:40:54.026 sergap[5241:259883] Resetting plugins due to page load.
+2015-04-19 10:40:54.660 sergap[5241:259883] Finished load of: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/72154C4D-AC91-4A9D-B768-3F6FECFCE35A/sergap.app/www/index.html#/room/list
+2015-04-19 10:40:59.140 sergap[5241:259883] Resetting plugins due to page load.
+2015-04-19 10:40:59.161 sergap[5241:259883] Failed to load webpage with error: Frame load interrupted
+2015-04-19 10:41:00.699 sergap[5241:259883] Resetting plugins due to page load.
+2015-04-19 10:41:00.701 sergap[5241:259883] Failed to load webpage with error: Frame load interrupted
+2015-04-19 10:41:01.316 sergap[5241:259883] Resetting plugins due to page load.
+2015-04-19 10:41:01.318 sergap[5241:259883] Failed to load webpage with error: Frame load interrupted
+2015-04-19 10:41:12.599 sergap[5241:259883] Simulator slow-motion animations are now on
+2015-04-19 10:41:14.141 sergap[5241:259883] Resetting plugins due to page load.
+2015-04-19 10:41:14.142 sergap[5241:259883] Failed to load webpage with error: Frame load interrupted
+2015-04-19 10:41:14.813 sergap[5241:259883] Resetting plugins due to page load.
+2015-04-19 10:41:14.815 sergap[5241:259883] Failed to load webpage with error: Frame load interrupted
+2015-04-19 10:41:15.324 sergap[5241:259883] Resetting plugins due to page load.
+2015-04-19 10:41:15.326 sergap[5241:259883] Failed to load webpage with error: Frame load interrupted
+2015-04-19 10:44:55.026 sergap[5241:259883] Resetting plugins due to page load.
+2015-04-19 10:44:55.037 sergap[5241:259883] Failed to load webpage with error: Frame load interrupted
+2015-04-19 10:44:57.225 sergap[5241:259883] Resetting plugins due to page load.
+2015-04-19 10:44:57.227 sergap[5241:259883] Failed to load webpage with error: Frame load interrupted
+2015-04-19 10:45:05.039 sergap[5754:265974] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Data/Application/6D83A9FD-F0E8-4BC7-8E51-620A9E70406D/Library/Cookies/Cookies.binarycookies
+2015-04-19 10:45:05.293 sergap[5754:265974] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 10:45:05.293 sergap[5754:265974] Multi-tasking -> Device: YES, App: YES
+2015-04-19 10:45:05.309 sergap[5754:265974] Unlimited access to network resources
+2015-04-19 10:45:05.430 sergap[5754:265974] [CDVTimer][keyboard] 0.066996ms
+2015-04-19 10:45:05.430 sergap[5754:265974] [CDVTimer][TotalPluginStartup] 0.274003ms
+2015-04-19 10:45:05.817 sergap[5754:265974] Resetting plugins due to page load.
+2015-04-19 10:45:06.640 sergap[5754:265974] Finished load of: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/1DF28648-0FFE-4A64-BD8C-F467FE3A4E24/sergap.app/www/index.html#/room/list
+2015-04-19 10:45:06.921 sergap[5754:265974] THREAD WARNING: ['Keyboard'] took '23.620850' ms. Plugin should use a background thread.
+2015-04-19 17:51:23.001 sergap[6991:455505] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Data/Application/A0C254D8-54B6-493C-96F6-1B91D41B92DF/Library/Cookies/Cookies.binarycookies
+2015-04-19 17:51:23.441 sergap[6991:455505] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 17:51:23.441 sergap[6991:455505] Multi-tasking -> Device: YES, App: YES
+2015-04-19 17:51:23.456 sergap[6991:455505] Unlimited access to network resources
+2015-04-19 17:51:23.658 sergap[6991:455505] [CDVTimer][keyboard] 0.072002ms
+2015-04-19 17:51:23.658 sergap[6991:455505] [CDVTimer][TotalPluginStartup] 0.275016ms
+2015-04-19 17:51:24.597 sergap[6991:455505] Resetting plugins due to page load.
+2015-04-19 17:51:25.206 sergap[6991:455505] Finished load of: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/index.html#/room
+2015-04-19 17:51:47.905 sergap[6991:455505] ERROR: Error: Attempted to assign to readonly property.
+ChildScope@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:22374:42
+$new@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:22382:40
+compositeLinkFn@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:15749:38
+nodeLinkFn@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:16416:35
+compositeLinkFn@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:15770:23
+nodeLinkFn@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:16416:35
+compositeLinkFn@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:15770:23
+publicLinkFn@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:15649:45
+appendViewElement@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:48180:11
+render@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:46392:58
+init@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:46312:26
+render@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:48050:18
+register@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:48008:16
+updateView@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:53315:31
+file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:53292:21
+$broadcast@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:23412:33
+file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:40882:32
+processQueue@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:21881:29
+file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:21897:39
+$eval@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:23093:28
+$digest@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:22909:36
+$apply@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:23198:31
+file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:24924:42
+completeOutstandingRequest@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:13597:15
+file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/4EE1AA7D-F09F-48B5-868F-F75F57D63635/sergap.app/www/lib/ionic/js/ionic.bundle.js:13977:33
+2015-04-19 18:53:13.391 sergap[7715:469932] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Data/Application/2F48DE76-C5EE-4CA5-BA3C-77A8E919EA63/Library/Cookies/Cookies.binarycookies
+2015-04-19 18:53:14.379 sergap[7715:469932] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 18:53:14.389 sergap[7715:469932] Multi-tasking -> Device: YES, App: YES
+2015-04-19 18:53:14.418 sergap[7715:469932] Unlimited access to network resources
+2015-04-19 18:53:16.253 sergap[7715:469932] [CDVTimer][keyboard] 0.073016ms
+2015-04-19 18:53:16.253 sergap[7715:469932] [CDVTimer][TotalPluginStartup] 0.272989ms
+2015-04-19 18:53:18.458 sergap[7715:469932] Resetting plugins due to page load.
+2015-04-19 18:53:19.846 sergap[7715:469932] Finished load of: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/B4C3AC64-9C79-461B-9AE5-9B46407993AC/sergap.app/www/index.html#/room
+2015-04-19 18:58:01.720 sergap[7915:471733] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Data/Application/82991AF1-4E2D-47EE-B979-7C48C0FC1BB4/Library/Cookies/Cookies.binarycookies
+2015-04-19 18:58:02.052 sergap[7915:471733] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 18:58:02.052 sergap[7915:471733] Multi-tasking -> Device: YES, App: YES
+2015-04-19 18:58:02.063 sergap[7915:471733] Unlimited access to network resources
+2015-04-19 18:58:02.205 sergap[7915:471733] [CDVTimer][keyboard] 0.069022ms
+2015-04-19 18:58:02.205 sergap[7915:471733] [CDVTimer][TotalPluginStartup] 0.276983ms
+2015-04-19 18:58:02.584 sergap[7915:471733] Resetting plugins due to page load.
+2015-04-19 18:58:03.245 sergap[7915:471733] Finished load of: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/EED86C45-D89F-4C47-AE8E-768A97A2C381/sergap.app/www/index.html#/room
+2015-04-19 20:27:39.883 sergap[7915:489855] Communications error: <OS_xpc_error: <error: 0x2dd85f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2dd883c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-04-19 20:53:34.702 sergap[8933:501741] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Data/Application/B703D92C-0C39-406C-842A-728EE95777F0/Library/Cookies/Cookies.binarycookies
+2015-04-19 20:53:38.051 sergap[8933:501741] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 20:53:38.084 sergap[8933:501741] Multi-tasking -> Device: YES, App: YES
+2015-04-19 20:53:38.180 sergap[8933:501741] Unlimited access to network resources
+2015-04-19 20:53:40.218 sergap[8933:501741] [CDVTimer][keyboard] 0.117004ms
+2015-04-19 20:53:40.218 sergap[8933:501741] [CDVTimer][TotalPluginStartup] 11.398971ms
+2015-04-19 20:53:42.202 sergap[8933:501741] Resetting plugins due to page load.
+2015-04-19 20:53:45.819 sergap[8933:501741] Finished load of: http://192.168.35.126:8100/#/room
+2015-04-21 18:55:41.476 sergap[2375:337561] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Data/Application/1FF4C740-50B8-4883-A009-E1BB9CFC2DA0/Library/Cookies/Cookies.binarycookies
+2015-04-21 18:55:42.520 sergap[2375:337561] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-21 18:55:42.520 sergap[2375:337561] Multi-tasking -> Device: YES, App: YES
+2015-04-21 18:55:42.560 sergap[2375:337561] Unlimited access to network resources
+2015-04-21 18:55:43.475 sergap[2375:337561] [CDVTimer][keyboard] 0.087023ms
+2015-04-21 18:55:43.777 sergap[2375:337561] [CDVTimer][statusbar] 301.171958ms
+2015-04-21 18:55:43.777 sergap[2375:337561] [CDVTimer][TotalPluginStartup] 301.693022ms
+2015-04-21 18:55:44.450 sergap[2375:337561] Resetting plugins due to page load.
+2015-04-21 18:55:45.650 sergap[2375:337561] Finished load of: file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/8F6AA189-B356-44DC-93C4-2FA3EA863C55/sergap.app/www/index.html#/room
+2015-04-21 18:56:03.577 sergap[2375:337561] ERROR: Error: Can't find variable: keyboardShowHandler
+file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/8F6AA189-B356-44DC-93C4-2FA3EA863C55/sergap.app/www/js/controllers.js:13:79
+$emit@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/8F6AA189-B356-44DC-93C4-2FA3EA863C55/sergap.app/www/lib/ionic/js/ionic.bundle.js:23339:38
+emit@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/8F6AA189-B356-44DC-93C4-2FA3EA863C55/sergap.app/www/lib/ionic/js/ionic.bundle.js:46564:26
+transitionComplete@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/8F6AA189-B356-44DC-93C4-2FA3EA863C55/sergap.app/www/lib/ionic/js/ionic.bundle.js:46522:26
+onReflow@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/8F6AA189-B356-44DC-93C4-2FA3EA863C55/sergap.app/www/lib/ionic/js/ionic.bundle.js:46502:33
+file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/8F6AA189-B356-44DC-93C4-2FA3EA863C55/sergap.app/www/lib/ionic/js/ionic.bundle.js:24915:30
+completeOutstandingRequest@file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/8F6AA189-B356-44DC-93C4-2FA3EA863C55/sergap.app/www/lib/ionic/js/ionic.bundle.js:13597:15
+file:///Users/goer/Library/Developer/CoreSimulator/Devices/13140770-3F7F-4BBD-A00F-8B76A6AC84E6/data/Containers/Bundle/Application/8F6AA189-B356-44DC-93C4-2FA3EA863C55/sergap.app/www/lib/ionic/js/ionic.bundle.js:13977:33

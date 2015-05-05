@@ -1,0 +1,16 @@
+ion-view(view-title="Room List")
+
+   ion-nav-bar.bar-positive
+      ion-nav-back-button(class="button-icon ion-arrow-left-c")
+      //ion-nav-back-button(class="button-icon ion-arrow-left-c")
+      ion-nav-buttons(side="right")
+         button(class="button button-clear") Add
+
+   ion-content
+
+      ion-list
+         ion-item(ui-sref="root.room.map") Test1
+            ion-option-button(class="button-assertive") Delete
+            ion-option-button(class="button-positive") Share
+         ion-item() Test2
+
